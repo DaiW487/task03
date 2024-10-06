@@ -4,6 +4,7 @@ project(task)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
+
 # 寻找 OpenCV 库
 find_package(OpenCV REQUIRED)
 
